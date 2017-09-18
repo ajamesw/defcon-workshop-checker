@@ -1,0 +1,14 @@
+beautifulsoup4==4.6.0
+bs4==0.0.1
+certifi==2017.4.17
+chardet==3.0.4
+idna==2.5
+py==1.4.34
+PyJWT==1.5.0
+PySocks==1.6.7
+pytest==3.2.0
+pytz==2017.2
+requests==2.18.1
+six==1.10.0
+twilio==6.4.3
+urllib3==1.21.1
